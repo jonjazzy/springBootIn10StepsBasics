@@ -18,7 +18,7 @@ public class BooksRESTController
                     new Book(
                     1l,
                     "Mastering Spring",
-                    "Authored by John Bello"
+                    "Authored by Jon Jazzy"
                 ));
     }
 
